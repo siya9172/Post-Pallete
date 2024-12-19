@@ -14,7 +14,7 @@ function Footer() {
                             </div>
                             <div>
                                 <p className="text-sm text-white">
-                                    &copy; By Vivek Kalpavruksha    
+                                    &copy; By Siddhi Patil    
                                 </p>
                             </div>
                         </div>
